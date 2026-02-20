@@ -119,6 +119,9 @@ img{
 .box{
     width: 100px;
 }
+.box img{
+    width: 100px;
+}
 
 
 }
